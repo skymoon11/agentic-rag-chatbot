@@ -9,5 +9,6 @@ chromadb
 pypdf
 python-docx
 openpyxl
+pandas
 requests
 python-dotenv
