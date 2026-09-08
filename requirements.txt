@@ -1,0 +1,13 @@
+flask==3.0.*
+langchain==0.3.*
+langgraph==0.2.*
+langchain-community
+langchain-huggingface
+sentence-transformers
+deepgram-sdk
+chromadb
+pypdf
+python-docx
+openpyxl
+requests
+python-dotenv
